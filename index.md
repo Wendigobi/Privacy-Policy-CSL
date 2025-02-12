@@ -1,5 +1,4 @@
----
-content: |
+
   Privacy Policy
 
   Community Service Log – Extended Description
